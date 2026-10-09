@@ -96,4 +96,4 @@ Les mesures sont planes dans la projection (surface « fiscale », comparable à
 
 ## Auteur
 
-Eric PERRET — Mission Foncier, Guyane — eric.perret@guyane.gouv.fr
+Eric PERRET — eperret@azs.fr
