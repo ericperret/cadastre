@@ -14,7 +14,7 @@ Visionneuse et outil de travail pour les planches du **Plan Cadastral Informatis
 
 Fichier unique `cadastre_dxf_inspecteur_v21.html` : aucune installation, aucune librairie, aucun serveur. Il s'ouvre dans un navigateur et fonctionne hors ligne. Les fichiers DXF sont lus localement, rien n'est envoyé.
 
-Conçu pour les géomètres et les services fonciers, utilisable par tout service ayant besoin de localiser rapidement une parcelle, une rue ou un numéro de voie.
+Eric PERRET — Guyane — projet personnel, développé sur temps personnel, inspiré de l'expérience professionnelle en gestion du foncier, utilisable par tout service ayant besoin de localiser rapidement une parcelle, une rue ou un numéro de voie.
 
 ![Cayenne : deux planches fusionnées (AE01 + AH01), coloriage par occupation bâtie, fiche d'un bâtiment verrouillée, mini-carte de la commune](capture_cayenne.png)
 
