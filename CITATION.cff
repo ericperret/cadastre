@@ -1,0 +1,42 @@
+# ==============================================================================
+#  Nom / Name : CITATION.cff
+#  Projet     : cadastre — https://github.com/ericperret/cadastre
+#  Auteur     : Eric PERRET
+#  Date       : 2026-10-27
+#  Version    : 1.0
+#  Objet      : métadonnées de citation (bouton « Cite this repository » de GitHub)
+#  Licence    : CC BY-NC 4.0 — usage commercial sur autorisation écrite (eperret@azs.fr)
+# ==============================================================================
+cff-version: 1.2.0
+message: "If you use or cite this work, please credit it as below. / Merci de citer ce travail comme ci-dessous."
+type: software
+title: "DXF-PCI Inspector — French cadastral map viewer"
+abstract: "DXF-PCI Inspector: offline browser viewer and field tool for the French cadastral map (DGFiP PCI, DXF). Reads a whole département: parcels, buildings, streets, search, records. Single HTML file."
+authors:
+  - family-names: "PERRET"
+    given-names: "Eric"
+    email: "eperret@azs.fr"
+repository-code: "https://github.com/ericperret/cadastre"
+url: "https://ericperret.github.io/cadastre/cadastre_dxf_inspecteur_v21.html"
+license: CC-BY-NC-4.0
+date-released: "2026-10-27"
+keywords:
+  - cadastre
+  - cadastral-map
+  - dxf
+  - dxf-viewer
+  - gis
+  - geospatial
+  - france
+  - dgfip
+  - pci
+  - land-registry
+  - parcels
+  - open-data
+  - lambert-93
+  - utm
+  - french-guiana
+  - offline
+  - single-file
+  - vanilla-javascript
+  - zero-dependencies
